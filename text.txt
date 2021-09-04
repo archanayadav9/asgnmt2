@@ -1,0 +1,2 @@
+this is my first text of text.txt file
+hey i am line 2
