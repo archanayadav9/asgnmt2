@@ -1,0 +1,91 @@
+.img-head{
+
+    background-image: url("img1.png");
+    height: 480px;
+    
+}
+
+ a.logo{
+      color:#ce0505;
+      font-weight: 600;
+      text-decoration:none;
+      font-style: normal;
+      font-family: Poppins;
+      font-size: 60px;
+      
+      
+ }
+
+
+ .quick{
+
+    color: #192f60;
+    font-family: Poppins;
+    font-weight: bold;
+    margin-top:  6rem;
+    font-size: 30px;
+    
+ }
+
+ .para{
+
+    color: #8c96ab;
+    font-family: Poppins;
+    font-weight: normal;
+    margin-top: 1 rem;
+    font-size: 18px;
+  
+ }
+
+ .menu{
+   color: #192f60;
+   font-family: Poppins;
+   font-weight: bold;
+   font-size: 18px;
+ }
+
+ .menu-page{
+   color: #8c96ab;
+   font-family: Poppins;
+   font-size: 14px;
+ }
+
+ .heading{
+
+  font-weight: 600;
+  padding: 25px;
+  font-size: 36px;
+  font-family: Poppins;
+ }
+
+ 
+
+
+  
+
+
+ 
+
+
+
+    
+  
+
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
